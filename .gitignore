@@ -12,6 +12,7 @@ DerivedData/
 
 # Core ML Model Files
 Models
+/Models/
 **/*.mlpackage
 **/*.mlmodel
 **/*.mlmodelc
